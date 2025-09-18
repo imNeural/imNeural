@@ -48,52 +48,54 @@ me.say_hi()
 Here are the tools and technologies I use to build practical, impactful machine learning solutions.
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/doc/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://www.w3schools.com/cpp/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://www.w3schools.com/c/c_intro.php)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.w3schools.com/MySQL/default.asp)
+
 
 **Machine Learning**  
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6B6B?style=flat-square&logo=chartdotjs&logoColor=white)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-4ECDC4?style=flat-square&logo=chartdotjs&logoColor=white)
-![Recommender Systems](https://img.shields.io/badge/Recommender%20Systems-45B7D1?style=flat-square&logo=target&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-96CEB4?style=flat-square&logo=robot&logoColor=white)
+[![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6B6B?style=flat-square&logo=chartdotjs&logoColor=white)](https://scikit-learn.org/stable/supervised_learning.html)
+[![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-4ECDC4?style=flat-square&logo=chartdotjs&logoColor=white)](https://scikit-learn.org/stable/unsupervised_learning.html)
+[![Recommender Systems](https://img.shields.io/badge/Recommender%20Systems-45B7D1?style=flat-square&logo=target&logoColor=white)](https://www.nvidia.com/en-in/glossary/recommendation-system/)
+[![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-96CEB4?style=flat-square&logo=robot&logoColor=white)](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 **Deep Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ANN](https://img.shields.io/badge/Neural%20Networks-FF9500?style=flat-square&logo=brain&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6B35?style=flat-square&logo=camera&logoColor=white)
-![RNN](https://img.shields.io/badge/RNN-FF3B30?style=flat-square&logo=repeat&logoColor=white)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![ANN](https://img.shields.io/badge/Neural%20Networks-FF9500?style=flat-square&logo=brain&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_neural_network)
+[![CNN](https://img.shields.io/badge/CNN-FF6B35?style=flat-square&logo=camera&logoColor=white)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+[![RNN](https://img.shields.io/badge/RNN-FF3B30?style=flat-square&logo=repeat&logoColor=white)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
 **Natural Language Processing**  
-![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square&logo=python&logoColor=white)
-![NLP Techniques](https://img.shields.io/badge/Tokenization%20|%20Stemming%20|%20Lemmatization-2E8B57?style=flat-square&logo=language&logoColor=white)
-![Vectorization](https://img.shields.io/badge/Count%20Vectorizer-228B22?style=flat-square&logo=vector&logoColor=white)
+[![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square&logo=python&logoColor=white)](https://www.nltk.org/)
+[![NLP Techniques](https://img.shields.io/badge/Tokenization%20|%20Stemming%20|%20Lemmatization-2E8B57?style=flat-square&logo=language&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![Vectorization](https://img.shields.io/badge/Count%20Vectorizer-228B22?style=flat-square&logo=vector&logoColor=white)](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
 
 **Data Analytics**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA%20|%20Feature%20Engineering-4B8BBE?style=flat-square&logo=databricks&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![EDA](https://img.shields.io/badge/EDA%20|%20Feature%20Engineering-4B8BBE?style=flat-square&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
 **Mathematics**  
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-8E44AD?style=flat-square&logo=wolfram&logoColor=white)
-![Calculus](https://img.shields.io/badge/Calculus-9B59B6?style=flat-square&logo=wolfram&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-A569BD?style=flat-square&logo=databricks&logoColor=white)
-![Probability](https://img.shields.io/badge/Probability-BB8FCE?style=flat-square&logo=chartdotjs&logoColor=white)
+[![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-8E44AD?style=flat-square&logo=wolfram&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
+[![Calculus](https://img.shields.io/badge/Calculus-9B59B6?style=flat-square&logo=wolfram&logoColor=white)](https://en.wikipedia.org/wiki/Calculus)
+[![Statistics](https://img.shields.io/badge/Statistics-A569BD?style=flat-square&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
+[![Probability](https://img.shields.io/badge/Probability-BB8FCE?style=flat-square&logo=chartdotjs&logoColor=white)](https://en.wikipedia.org/wiki/Probability)
 
 **Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms)
+
 ---
 
 
